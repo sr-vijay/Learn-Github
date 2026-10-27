@@ -13,4 +13,3 @@ this is my fitst repo buut i dont knoe what it is
  ## WHICH IS THE BEST IDEA TO EARN ACHIEVEMENTS 
  reserving the working Supabase authentication, database, and privacy policies.. Give me exact code changes for my exist
 
-the twinkle heart or other and cute pop-up sound, if open the website want to play the Enna vizhaii azhage song from kadalardhinam Movie, in the website every page need a unique animati
