@@ -10,3 +10,4 @@ this is my fitst repo buut i dont knoe what it is
 
  # PLEASE HELP ME TO ARCHIVE THE ACHIEVEMENTS
  ## PLEASE BUDDYS
+ ## WHICH IS THE BEST IDEA TO REARN ACHIEVEMENTS 
