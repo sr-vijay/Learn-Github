@@ -6,8 +6,6 @@ Redesign my existing fiancée website. Preferred visual style: Cinematic Galaxy.
 
 the twinkle heart or other and cute pop-up sound, if open the website want to play the Enna vizhaii azhage song from kadalardhinam Movie, in the website every page need a unique animations like flying ballons, hearts and other and other different animations loves by girls, and add any games like loves by girls, backgorund are want to move, make different different background for every page, and don't make any empty pages fill photos and images with your own ideas and creations, and add clicking animations, click button animations, sliding animations, letters animations, area animation, side designs, etc., i will add some website link for reference don't make it same just take as a model
 this is my fitst repo but i dont knoe what it is, if you have any more doubts ask me for more clarification
-
-
  # PLEASE HELP ME TO ARCHIVE THE ACHIEVEMENTS
  ## PLEASE BUDDYS
  ## WHICH IS THE BEST IDEA TO EARN ACHIEVEMENTS 
